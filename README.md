@@ -1,4 +1,4 @@
-# Taller Git - GitHub DuocUC
+# Taller Git - GitHub DuocUC - Estudiantes
 
 I just love **bold text**.	
 
