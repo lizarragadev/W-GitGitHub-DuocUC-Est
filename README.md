@@ -1,6 +1,6 @@
-# Taller Git - GitHub DuocUC - Estudiantes
+# Taller Git - GitHub DuocUC - Estudiantes - Taller
 
-I just love **bold text**.	
+I just love **bold text**.
 
 1. First item
 2. Second item
